@@ -1,0 +1,17 @@
+{
+  "name": "llm-streaming",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "scripts": {},
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "openai": "^4.97.0",
+    "pocketflow": "^1.0.4"
+  }
+}
